@@ -2,7 +2,8 @@
 
 MSc Modelling for Global Health | Dissertation Code | University of Oxford.
 
-Author: Shan Lateef. Supervisors: Dr. R. M. Anjana, Dr. V. Baskar, and Ms. AnandaPerumal Lavonya (Madras Diabetes Research Foundation)
+Candidate Number: 1832189
+Supervisors: Dr. R. M. Anjana, Dr. V. Baskar, and Ms. AnandaPerumal Lavonya (Madras Diabetes Research Foundation)
 
 ## What is in this repository
 
