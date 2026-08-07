@@ -18,7 +18,7 @@ In place of real data, this repository holds a mock dataset (`mock-data/`) with 
 
 `mock-data/SES_Mastersheet.xlsx`: one line per patient, in all three engagement groups (occupation, age, gender), for use in notebook 01 (SES mapping and engagement-group comparisons).
 
-`mock-data/Active_Inactive_Non-Diala_Mock.xlsx`: three sheets, `Active_Users`, `Inactive_Users`, and `Non_DiaLA_Users`, each holding the mock laboratory values (HbA1c, BMI, HDL, triglycerides, serum cholesterol) before and after intervention, for use in notebooks 02 through 07. Different sheets will have different columns, as in the real data, such as the lack of diabetes duration for the Non-DiaLA users and little lab data other than HbA1c and BMI for the Inactive users.
+`mock-data/Active_Inactive_Non-Diala_Mock.xlsx`: three sheets, `Active_Users`, `Inactive_Users`, and `Non_DiaLA_Users`, each holding the mock laboratory values (HbA1c, BMI, HDL, triglycerides, serum cholesterol) before and after intervention, for use in notebooks 02 through 07. Different sheets will have different columns, mirroring the real data, such as the lack of diabetes duration for the Non-DiaLA users and little lab data other than HbA1c and BMI for the Inactive users.
 
 ## Running the analysis
 
