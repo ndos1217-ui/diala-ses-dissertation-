@@ -6,7 +6,7 @@ Author: Shan Lateef. Supervisors: Dr. R. M. Anjana, Dr. V. Baskar, and Ms. Anand
 
 ## What is in this repository
 
-Analysis notebooks exploring the relationship between socioeconomic status (as captured in the Kuppuswamy occupational score) and engagement with the DiaLA diabetes application, the relationship between digital engagement and clinical outcomes, and whether there is any interaction between socioeconomic status and clinical outcomes in a retrospective cohort drawn from Dr. Mohan's Diabetes Specialities Centre and the Madras Diabetes Research Foundation (MDRF), Chennai, India (October 2022 to October 2025).
+Analysis notebooks exploring the relationship between socioeconomic status (as captured in the Kuppuswamy occupational score) and engagement with the DiaLA diabetes application, the relationship between digital engagement and clinical outcomes, and whether there is any interaction between socioeconomic status and clinical outcomes in a retrospective cohort drawn from Dr. Mohan's Diabetes Specialities Centre and the Madras Diabetes Research Foundation (MDRF), Chennai, India (October 2022 to April 2026).
 
 Since I was inexperienced with Python programming at the start of this project, my data mentor and co-workers at MDRF taught me Python and pandas and collaborated with me to develop the analysis code in these notebooks. 
 
