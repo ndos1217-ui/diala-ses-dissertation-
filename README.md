@@ -2,19 +2,19 @@
 
 MSc Modelling for Global Health | Dissertation Code | University of Oxford.
 
-Author: Shan Lateef. Supervisors: Dr. R. M. Anjana, Dr. V. Baskar, and Ms. Lavonya Ramu (Madras Diabetes Research Foundation)
+Author: Shan Lateef. Supervisors: Dr. R. M. Anjana, Dr. V. Baskar, and Ms. AnandaPerumal Lavonya (Madras Diabetes Research Foundation)
 
 ## What is in this repository
 
 Analysis notebooks exploring the relationship between socioeconomic status (as captured in the Kuppuswamy occupational score) and engagement with the DiaLA diabetes application, the relationship between digital engagement and clinical outcomes, and whether there is any interaction between socioeconomic status and clinical outcomes in a retrospective cohort drawn from Dr. Mohan's Diabetes Specialities Centre and the Madras Diabetes Research Foundation (MDRF), Chennai, India (October 2022 to October 2025).
 
-Since I was inexperienced with Python programming at the start of this project, my data mentor and co-workers at MDRF taught me about Python and pandas and collaborated with me in the development of the analysis code in these notebooks. 
+Since I was inexperienced with Python programming at the start of this project, my data mentor and co-workers at MDRF taught me Python and pandas and collaborated with me to develop the analysis code in these notebooks. 
 
 ## Data
 
-Actual patient data does not appear in this repository and is not publicly available, it is subject to MDRF (see Data Availability Statement in the dissertation).
+Actual patient data does not appear in this repository and is not publicly available; it is subject to MDRF security (see Data Availability Statement in the dissertation).
 
-In place of real data, this repository holds a mock dataset (`mock-data/`) with the same file structure, same sheet names and same column names as the real data, but with randomly generated non-identifying data, so the full analysis pipeline can be completed without access to the actual records.
+In place of real data, this repository holds a mock dataset (`mock-data/`) with the same file structure, sheet names, and column names as the real data, but with randomly generated non-identifying data, so the full analysis pipeline can be completed without access to the actual records.
 
 `mock-data/SES_Mastersheet.xlsx`: one line per patient, in all three engagement groups (occupation, age, gender), for use in notebook 01 (SES mapping and engagement-group comparisons).
 
